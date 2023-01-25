@@ -6,11 +6,11 @@ package virk.manpreet.githubdemo;
 
 /**
  *
- * @author sukhm
+ * @author Virkms
  */
 public class GithubDemo {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("Hello BCS345");
     }
 }
